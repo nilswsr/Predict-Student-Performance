@@ -6,5 +6,5 @@ This project is based on a tutorial by [Tech with Tim](https://www.youtube.com/c
 ## What I have learned
 - Introduction into machine learning
 - How to work with linear regressions in Python
-- Savin linear models
+- Saving linear models
 - Plotting linear models
